@@ -1,0 +1,23 @@
+body {
+    background-color: #D16014;
+}
+
+h1 {
+    color: #313715;
+}
+div {
+    display: flex;
+    margin: 0 auto;
+}
+
+button {
+    background-color: #BBCE8A;
+}
+button:hover {
+    background-color: #939F5C;
+}
+
+.counter {
+    flex-direction: column;
+    align-items: center;
+}
